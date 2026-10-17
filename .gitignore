@@ -1,0 +1,7 @@
+# Godot
+.godot/
+android/
+*.tmp
+# local build output
+build/
+*.keystore
